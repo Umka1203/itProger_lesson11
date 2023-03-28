@@ -1,6 +1,6 @@
 prepros.config
 
 .sass
-bin
-admin
-config
+/bin
+/admin
+/config
